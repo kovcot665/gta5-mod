@@ -9,8 +9,6 @@ GTA V Steam版のシングルプレイ用 ScriptHookVDotNet v3 MODです。
 - GTA V Steam版
 - Script Hook V
 - ScriptHookVDotNet v3
-- .NET Framework 4.8 Developer Pack
-- Visual Studio または Visual Studio Build Tools
 
 ## 導入方法
 
